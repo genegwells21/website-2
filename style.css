@@ -40,3 +40,29 @@ background: #fff;
 transition: .4s;
 color: #000;
 }
+.welcome {
+ position: relative;
+ text-align: center;
+ font-family: sans-serif;
+ color: #fff;
+ top: 160px;
+}
+
+.welcome h1 {
+ font-size: 42px;
+ margin: 25px;
+}
+.btn {
+ font-size: 18px;
+ letter-spacing: 2px;
+ margin: 5px;
+ padding: 7px 10px;
+ text-decoration: none;
+ border: 1px solid #fff;
+}
+.btn1 {
+ background: #fff;
+ color: #000;
+}
+.btn2 {
+ color: $fff;
